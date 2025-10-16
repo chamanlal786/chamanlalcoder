@@ -1,3 +1,4 @@
 # chamanlalcoder
 this is my first Repository
-Auther - chaman lal
+<br>
+<h2>Auther - chaman lal</h2>
